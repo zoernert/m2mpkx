@@ -1,0 +1,26 @@
+{
+  "name": "m2mpkx",
+  "version": "0.0.1",
+  "description": "Public Key Exchange managed via Ethereum blockchain. Designed for IoT (M2M) communication on thin(er) clients.",
+  "main": "m2mpkx.js",
+  "dependencies": {    
+    "solc": "^0.3.5",
+    "node-forge": "^0.6.40",
+    "web3": "^0.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "crypt",
+    "ethereum",
+    "m2m",
+    "blockchain",
+    "pki",
+    "exchange"
+  ],
+  "author": "Thorsten Zoerner <me@thorsten-zoerner.com> (https://blog.stromhaltig.de)",
+  "license": "ISC"
+}
